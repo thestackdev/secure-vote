@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/shanmukeshwar/Documents/code/freelance/blockchain-voting/src/contracts/BlockchainVoting.sol": {
+      "lastModificationDate": 1683349022787,
+      "contentHash": "8d53e5d0b8992f540054daa154f63293",
+      "sourceName": "src/contracts/BlockchainVoting.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "BlockchainVoting"
+      ]
+    }
+  }
+}
